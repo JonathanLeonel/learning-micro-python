@@ -1,5 +1,5 @@
 # traigo Pin de machine para poder obtener una instancia de ledazul (que es el pin 2)
-from machine import Pin
+from machine import Pin 
 
 # traigo time porque lo voy a usar para el sleep del parpadeo
 import time
